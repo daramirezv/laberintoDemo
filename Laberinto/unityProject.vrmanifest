@@ -1,0 +1,16 @@
+{
+  "source": "Unity",
+  "applications": [
+    {
+      "app_key": "application.generated.unity.laberinto.exe",
+      "launch_type": "url",
+      "url": "steam://launch/",
+      "action_manifest_path": "C:\\Users\\Imagine\\Desktop\\daramirezv Unity\\Laberinto\\actions.json",
+      "strings": {
+        "en_us": {
+          "name": "Laberinto [Testing]"
+        }
+      }
+    }
+  ]
+}
